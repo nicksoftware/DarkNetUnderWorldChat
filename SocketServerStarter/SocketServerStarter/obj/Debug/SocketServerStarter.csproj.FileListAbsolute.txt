@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\SocketServerStarter\SocketServerStarter\bin\Debug\SocketServerStarter.exe.config
+C:\Users\User\source\repos\SocketServerStarter\SocketServerStarter\bin\Debug\SocketServerStarter.exe
+C:\Users\User\source\repos\SocketServerStarter\SocketServerStarter\bin\Debug\SocketServerStarter.pdb
+C:\Users\User\source\repos\SocketServerStarter\SocketServerStarter\obj\Debug\SocketServerStarter.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SocketServerStarter\SocketServerStarter\obj\Debug\SocketServerStarter.exe
+C:\Users\User\source\repos\SocketServerStarter\SocketServerStarter\obj\Debug\SocketServerStarter.pdb
